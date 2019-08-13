@@ -1,3 +1,9 @@
 [submodule "QNX_Project"]
 	path = QNX_Project
 	url = https://github.com/zhuhaijun753/sub_1.git
+[submodule "henhao"]
+	path = henhao
+	url = https://github.com/zhuhaijun753/sub_1.git
+[submodule "henhao2"]
+	path = henhao2
+	url = https://github.com/zhuhaijun753/sub_1.git
